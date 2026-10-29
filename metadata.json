@@ -1,0 +1,6 @@
+{
+  "name": "AURA HOME — Интернет-магазин предметов интерьера",
+  "description": "Лаконичные предметы декора, освещения и текстиля для дома с доставкой по Казахстану.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
